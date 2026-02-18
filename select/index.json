@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Soul",
+  "base_artist": "星野 源",
+  "createdAt": "2026-02-18T20:30:43.857306Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "BREAK MY SOUL",
+      "artist": "Beyoncé",
+      "has_synced": true,
+      "path": "select/01_BREAK_MY_SOUL_Beyoncé.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dixie Soul",
+      "artist": "Christian Parker",
+      "has_synced": true,
+      "path": "select/02_Dixie_Soul_Christian_Parker.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Soul",
+      "artist": "Lee Brice",
+      "has_synced": true,
+      "path": "select/03_Soul_Lee_Brice.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Country in My Soul",
+      "artist": "Thompson Square",
+      "has_synced": true,
+      "path": "select/04_Country_in_My_Soul_Thompson_Square.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "It Is Well With My Soul",
+      "artist": "The Innocence Mission",
+      "has_synced": true,
+      "path": "select/05_It_Is_Well_With_My_Soul_The_Innocence_Mission.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "California Soul",
+      "artist": "Marlena Shaw",
+      "has_synced": true,
+      "path": "select/06_California_Soul_Marlena_Shaw.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Soul",
+      "artist": "Girls' Generation",
+      "has_synced": true,
+      "path": "select/07_Soul_Girls'_Generation.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Soul Survivor",
+      "artist": "In Fear and Faith",
+      "has_synced": true,
+      "path": "select/08_Soul_Survivor_In_Fear_and_Faith.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Barz 4 Dayz (prod. Soul Theory",
+      "artist": "Mac Miller",
+      "has_synced": false,
+      "path": "select/09_Barz_4_Dayz_(prod._Soul_Theory_Mac_Miller.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Cruisin' (prod. Soul Theory)",
+      "artist": "Mac Miller",
+      "has_synced": true,
+      "path": "select/10_Cruisin'_(prod._Soul_Theory)_Mac_Miller.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Get along with You (Soul Inside Radio Mix)",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/11_Get_along_with_You_(Soul_Inside_Radio_Mix)_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Good Die Young (Cookin Soul remix)",
+      "artist": "50 Cent",
+      "has_synced": false,
+      "path": "select/12_Good_Die_Young_(Cookin_Soul_remix)_50_Cent.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Lady Grinning Soul",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/13_Lady_Grinning_Soul_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Lady Grinning Soul",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/14_Lady_Grinning_Soul_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "New Angels of Promise - Omikron: The Nomad Soul Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/15_New_Angels_of_Promise_-_Omikron__The_Nomad_Soul_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "New Angels of Promise (Omikron: The Nomad Soul Version)",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/16_New_Angels_of_Promise_(Omikron__The_Nomad_Soul_Version)_David_Bowie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Soul",
+      "artist": "星野源",
+      "has_synced": false,
+      "path": "select/pl_01_Soul_星野源.txt"
+    }
+  ]
+}
